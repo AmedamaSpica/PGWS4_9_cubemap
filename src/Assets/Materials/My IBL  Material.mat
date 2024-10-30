@@ -46,7 +46,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Cubemap:
-        m_Texture: {fileID: 8900000, guid: 74a7bbd3a98cc5c4387a41b6fe9a5b62, type: 3}
+        m_Texture: {fileID: 8900000, guid: 697ad8756143668489c0d63ce172dce2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -82,6 +82,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleReflectedCubemap_231e1f4a1957437a8d2f0b301d2df58b_Cube_1_Cubemap:
+        m_Texture: {fileID: 8900000, guid: 152ada11eafa8ba41bf137b23ef78daa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleReflectedCubemap_533e99afa2ab4865b5b7f1f498075e97_Cube_1_Cubemap:
         m_Texture: {fileID: 8900000, guid: 152ada11eafa8ba41bf137b23ef78daa, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
